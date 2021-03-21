@@ -1,14 +1,14 @@
 {
-  "name": "obsidian-sample-plugin",
+  "name": "obsidian-reorder",
   "version": "0.9.7",
-  "description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+  "description": "Obsidian (https://obsidian.md) plugin: Drag and drop file sections to reorder them",
   "main": "main.js",
   "scripts": {
     "dev": "rollup --config rollup.config.js -w",
     "build": "rollup --config rollup.config.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["obsidian", "plugin", "reorder", "re-order", "drag-and-drop"],
+  "author": "Hazel Garcia",
   "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^15.1.0",
