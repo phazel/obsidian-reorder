@@ -7,7 +7,13 @@
     "dev": "rollup --config rollup.config.js -w",
     "build": "rollup --config rollup.config.js"
   },
-  "keywords": ["obsidian", "plugin", "reorder", "re-order", "drag-and-drop"],
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "reorder",
+    "re-order",
+    "drag-and-drop"
+  ],
   "author": "Hazel Garcia",
   "license": "MIT",
   "devDependencies": {
